@@ -16,7 +16,7 @@ Mục tiêu: làm cho nó **chạy được**. Không cần đẹp.
 ### Ngày 3–4
 - [ ] Hiển thị thêm thông tin: image, ports, compose stack
 - [ ] Group container theo compose stack (wordpress, ollama...)
-- [ ] Format output đẹp hơn bằng `rich` library
+- [x] Format output đẹp hơn bằng `rich` library
 
 ### Ngày 5–7
 - [ ] `lazycat ps` — list containers
